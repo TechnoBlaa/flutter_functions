@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798700016778",
+    "project_id": "testflutter-2cd38",
+    "storage_bucket": "testflutter-2cd38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798700016778:android:de8dd8db818f2856dc8973",
+        "android_client_info": {
+          "package_name": "com.blagalvan.lasttry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisZ1jCxcBrrjrnWZzJrxhTlkyVykR5LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
